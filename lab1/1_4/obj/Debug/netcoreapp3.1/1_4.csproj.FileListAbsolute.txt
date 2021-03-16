@@ -1,0 +1,14 @@
+D:\IT\C#\Lab1\1_4\bin\Debug\netcoreapp3.1\1_4.exe
+D:\IT\C#\Lab1\1_4\bin\Debug\netcoreapp3.1\1_4.deps.json
+D:\IT\C#\Lab1\1_4\bin\Debug\netcoreapp3.1\1_4.runtimeconfig.json
+D:\IT\C#\Lab1\1_4\bin\Debug\netcoreapp3.1\1_4.runtimeconfig.dev.json
+D:\IT\C#\Lab1\1_4\bin\Debug\netcoreapp3.1\1_4.dll
+D:\IT\C#\Lab1\1_4\bin\Debug\netcoreapp3.1\1_4.pdb
+D:\IT\C#\Lab1\1_4\obj\Debug\netcoreapp3.1\_1_4.Form1.resources
+D:\IT\C#\Lab1\1_4\obj\Debug\netcoreapp3.1\1_4.csproj.GenerateResource.cache
+D:\IT\C#\Lab1\1_4\obj\Debug\netcoreapp3.1\1_4.AssemblyInfoInputs.cache
+D:\IT\C#\Lab1\1_4\obj\Debug\netcoreapp3.1\1_4.AssemblyInfo.cs
+D:\IT\C#\Lab1\1_4\obj\Debug\netcoreapp3.1\1_4.csproj.CoreCompileInputs.cache
+D:\IT\C#\Lab1\1_4\obj\Debug\netcoreapp3.1\1_4.dll
+D:\IT\C#\Lab1\1_4\obj\Debug\netcoreapp3.1\1_4.pdb
+D:\IT\C#\Lab1\1_4\obj\Debug\netcoreapp3.1\1_4.genruntimeconfig.cache
